@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #27374D!important;
+}
+
+h1,h2,label{
+    color: #270082;
+}
+  
+  
+
